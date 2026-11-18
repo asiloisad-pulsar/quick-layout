@@ -2,6 +2,9 @@
 
 Quick access to predefined pane layouts and dock toggles. Add buttons to the title bar for fast layout switching.
 
+> [!NOTE]
+> This package is in maintenance mode. If you use [Lumine](https://github.com/lumine-code/lumine), you may be interested in [quick-layout](https://github.com/lumine-code/quick-layout).
+
 ![demo](https://github.com/asiloisad-pulsar/quick-layout/blob/master/assets/buttons.png?raw=true)
 
 Fork of [layout-control](https://github.com/rafamel/atom-layout-control).
